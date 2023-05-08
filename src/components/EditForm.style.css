@@ -1,0 +1,19 @@
+.save {
+    background-color: #10b626;
+    color: rgb(255, 255, 255);
+    height: 30px;
+    width: 70px;
+    text-align: center;
+    border: none;
+    font-weight: bold;
+}
+
+.cancel {
+    background-color: #1f2833;
+    color: white;
+    height: 30px;
+    width: 70px;
+    text-align: center;
+    border: none;
+    font-weight: bold;
+}

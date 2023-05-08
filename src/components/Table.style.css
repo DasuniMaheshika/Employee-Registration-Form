@@ -1,0 +1,38 @@
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  margin-left: 20px ;
+  margin-right: 20px;
+}
+
+td,
+th {
+  border: 1px solid #b1acac;
+  text-align: left;
+  padding: 8px;
+}
+
+.list-header {
+  text-align: center;
+}
+
+.edit {
+    background-color: #10b626;
+    color: rgb(255, 255, 255);
+    height: 30px;
+    width: 70px;
+    text-align: center;
+    border: none;
+    font-weight: bold;
+}
+
+.delete {
+    background-color: #cc1414;
+    color: white;
+    height: 30px;
+    width: 70px;
+    text-align: center;
+    border: none;
+    font-weight: bold;
+}
